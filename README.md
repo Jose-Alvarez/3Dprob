@@ -1,10 +1,6 @@
 # 3Dprob
 Multivariate normal probabilities for 3D locations inside a cube.
 
-markdown
-
-# 3Dprob
-
 **Version:** 0.1  
 **Author:** Jose A. Alvarez-Gomez  
 **License:** GPL-3.0
