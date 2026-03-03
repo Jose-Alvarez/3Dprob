@@ -35,10 +35,6 @@ Multivariate normal probabilities for 3D locations inside a cube.
    source venv/bin/activate   # Linux/Mac
    venv\Scripts\activate      # Windows
 
-3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-
 ## Usage
    ```text
    python 3Dprob.py [-l LIMITS] [-v] [input_file]
